@@ -17,9 +17,9 @@
   },
   "devDependencies": {
     "@snowpack/plugin-webpack": "^3.0.0",
-    "snowpack": "^3.8.2"
+    "snowpack": "^3.8.8"
   },
   "dependencies": {
-    "@arcgis/core": "^4.20.2"
+    "@arcgis/core": "^4.23.0-next.20220106"
   }
 }
